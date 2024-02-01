@@ -1,3 +1,3 @@
-# The Dusting Zone by Faizan
+# The Dusting Zone by Nabeel
 
-https://github.com/faixysaati
+https://github.com/nabeer93
